@@ -6,6 +6,8 @@ A multiplayer, moddable, extensible roguelike built with NodeJS, JS, HTML and CS
 
 [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/HyperCrowd/isleward&tutorial=README.md)
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/hypercrowd/isleward)
+
 ### Installation
 
 1. Download and install NodeJS: `https://nodejs.org/en/download/`
